@@ -8,11 +8,11 @@
 cd进入chrome.exe路径 
 chrome.exe --remote-debugging-port=9222
 
-因知乎 登录 随机出现倒立文字验证码/普通文字验证码
-1.倒立文字识别使用 zhiye库
-2.文字验证码 调用超级🦅付费接口
+因知乎 登录 随机出现倒立文字验证码/普通文字验证码  
+1.倒立文字识别使用 zhiye库  
+2.文字验证码 调用超级🦅付费接口  
 
-需配置:
+## setting.py
 # 超级鹰配置
 CJY_USERNAME = ""
 CJY_PASSWORD = ""
